@@ -3,7 +3,7 @@ import Feedback from './Feedback';
 import Statistic from './Statistic';
 import Section from './Section';
 import Message from './Message';
-import { AiOutlineCoffee } from 'react-icons/ai';
+
 import { Container, Title } from './App.styled';
 
 class App extends Component {
